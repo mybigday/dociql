@@ -35,7 +35,7 @@
   "homepage": "https://github.com/wayfair/dociql",
   "dependencies": {
     "bluebird": "3.7.2",
-    "cheerio": "1.0.0-rc.12",
+    "cheerio": "1.0.0-rc.2",
     "clarify": "2.1.0",
     "coffeescript": "2.7.0",
     "commander": "6.2.1",
